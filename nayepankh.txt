@@ -1,0 +1,100 @@
+<html>
+ <head>
+ <u>
+ <h1 style="color:red" align="center">
+ NAYEPANKH FOUNDATION
+ </h1>
+ </u>
+ 
+ 
+ </head>
+ <body style="background-color:yellow">
+ <img src="https://getdohelp.com/img/uploads/blogs/17-b8609f5c5a22bdd5e8f982bf74bf5e30.jpg">
+ <h2 align="center">
+ HELPING ONE PERSON MIGHT NOT CHANGE THE WORLD .BUT IT COULD CHANGE THE WORLD FOR ONE PERSON
+ </h2>
+<u>
+<h2 style="color:blue">
+OUR FOUNDATION GOAL:
+</h2>
+</u>
+<h3>
+Let's help poor people
+</h3>
+<li>
+goal achieved:0
+</li>
+<li>
+total goal:Rs.30000
+</li>
+<li>
+left time:10 days left
+</li>
+<li>
+reference code:pra7432
+</li>
+ <u> 
+ <h2 style="color:blue">
+ DONATION FORM:
+ </h2>
+ </u>
+ FULL NAME:
+ <br>
+ <input type="name" required>
+ <br>
+ EMAIL:
+ <br>
+ <input type="email" required>
+ <br>
+ PHONE NUMBER:
+ <br>
+ <input type="name" required>
+ <br>
+ <input type="checkbox">
+ Do you wish to receive tax exemption?
+ <br>
+ REFERENCE CODE(if available):
+ <br>
+ <input type="text"placeholder="pra7432" required>
+ <br>
+ DONATION AMOUNT:(in rupees)
+ <br>
+ <input type="amount" placeholder="1500"required>
+ <br>
+  <button>
+  submit
+  </button>
+  <br>
+ 
+ 
+ <u>
+ <h2 style="color:blue" >
+ FEEDBACK FORM:
+ </h2>
+ </u>
+ <form>
+ NAME:
+ <br>
+ <input type="name" required>
+ <br>
+ EMAIL:
+ <br>
+ <input type="email" required>
+ <br>
+ DESCRIPTION:
+ <br>
+  <textarea type="message" rows="10"cols="40"></textarea>
+  <br>
+ <button>
+ submit
+ </button>
+ <br>
+ </form>
+ 
+ <img src="https://www.quranreading.com/blog/wp-content/uploads/2019/02/app-icon-11.png">
+ 
+ <h2>
+    &copy 2023 by BODDULURI VISHNUSAI |NAYEPANKH FOUNDATION
+ </h2>
+ </body>
+ </html>
